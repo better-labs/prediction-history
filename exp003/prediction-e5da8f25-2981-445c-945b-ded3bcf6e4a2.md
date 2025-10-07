@@ -106,6 +106,6 @@ N/A
 
 ---
 
-*Generated with [BetterAI Engine](https://github.com/better-labs/betteraiengine) | [Experiment 003](https://github.com/better-labs/prediction-history/tree/main/exp003) | Claude Sonnet 4.5 Separated Reasoning*
+*Generated with [BetterAI Engine](https://github.com/better-labs/betteraiengine) | [Experiment 003](https://github.com/better-labs/prediction-history/tree/main/exp003) | anthropic/claude-sonnet-4.5*
 
 **Disclaimer:** All content is for informational and educational purposes only and is not financial advice. You are solely responsible for your own decisions.

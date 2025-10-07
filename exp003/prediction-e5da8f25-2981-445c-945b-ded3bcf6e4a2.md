@@ -2,10 +2,10 @@
 
 ## AI Prediction Overview
 
-**Prediction Delta:** +0.35%
-**Outcome:** NO
-**Confidence:** 95%
-**Probability:** 2%
+- **Market Prediction:** [2.35%](https://polymarket.com/event/will-georgia-tech-win-the-2026-college-football-national-championship)
+- **AI Prediction:** 2%
+- **AI Delta:** +0.35%
+- **Confidence:** 95%
 
 ### Outcome Reasoning
 Georgia Tech has not been a competitive contender for the national championship in recent decades. The Yellow Jackets have not won a national championship since 1990 and have struggled to maintain consistent success in the ACC. In recent seasons (2021-2023), Georgia Tech has posted losing records and has not been ranked in the top 25. The program faces significant challenges including recruiting disadvantages compared to elite programs, limited recent success, and strong competition within the ACC and nationally from powerhouse programs like Georgia, Alabama, Ohio State, and others. While upsets can occur in college football, winning a national championship requires sustained excellence over an entire season, including navigating conference play and the College Football Playoff. The current market price of 2.4% for YES reflects the extremely low likelihood of this outcome. Historical data shows that teams outside the traditional power programs rarely win national championships in the modern playoff era.

@@ -1,10 +1,11 @@
-# Event: [Fed decision in October?](https://polymarket.com/event/fed-decision-in-october)
+
+  # Event: [Fed decision in October?](https://polymarket.com/event/fed-decision-in-october)
 ![Event Icon](https://polymarket-upload.s3.us-east-2.amazonaws.com/jerome+powell+glasses1.png)
 
-**Market:** [No change in Fed interest rates after October 2025 meeting?](https://polymarket.com/event/no-change-in-fed-interest-rates-after-october-2025-meeting)
-![Market Icon](https://polymarket-upload.s3.us-east-2.amazonaws.com/jerome+powell+glasses1.png)
+# Market: [No change in Fed interest rates after October 2025 meeting?](https://polymarket.com/event/no-change-in-fed-interest-rates-after-october-2025-meeting)
 
-# No change in Fed interest rates after October 2025 meeting?
+
+
 
 ## **AI Prediction Delta: 84.50%**
 
